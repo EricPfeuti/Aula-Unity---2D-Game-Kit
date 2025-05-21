@@ -33,6 +33,9 @@ EditorBuildSettings:
     path: Assets/NewScene.unity
     guid: a341347ecfade124f817cac8ea56a209
   - enabled: 1
-    path: Assets/LevelTeste.unity
+    path: Assets/2DGamekit/Scenes/LevelTeste.unity
     guid: d97edb72b7f72dd498213f8bab086856
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/AC1 - Games.unity
+    guid: 38209374bb0abdc4a872d8b60e79d655
   m_configObjects: {}
